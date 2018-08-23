@@ -1,4 +1,7 @@
 1q2w3e4r5t6y
 new info
+<<<<<<< HEAD
 new 3
 
+=======
+>>>>>>> a12af3d... fourth commit
